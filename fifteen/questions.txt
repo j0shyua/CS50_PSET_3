@@ -1,0 +1,12 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+1. Dimensions ranging from 3x3 to 9x9 are allowed.
+
+2. The game board is represented by a 2D array.
+
+3. Function called to greet player is greet();
+
+4. Need to implement functions init, draw, move, and won.
